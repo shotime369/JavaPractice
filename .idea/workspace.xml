@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="514b7f12-4dfd-44c3-9311-6047628fe46f" name="Changes" comment="prep" />
+    <list default="true" id="514b7f12-4dfd-44c3-9311-6047628fe46f" name="Changes" comment="prep">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FisherYatesShuffle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,18 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "shotime369"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;shotime369&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/shotime369/JavaPractice",
-    "accountId": "33429d12-60da-4df1-9dd2-e35505c58048"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/shotime369/JavaPractice&quot;,
+    &quot;accountId&quot;: &quot;33429d12-60da-4df1-9dd2-e35505c58048&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -44,11 +48,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Array2d.executor": "Run",
+    "Application.FisherYatesShuffle.executor": "Run",
+    "Application.GameWindow.executor": "Run",
     "Application.SortArray.executor": "Run",
     "Application.StringtoArray.executor": "Run",
+    "Application.Sudoku.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/penny/OneDrive - NESCol/IdeaProjects/DnD_CharacterCreator",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -76,6 +85,8 @@
       <updated>1724365516074</updated>
       <workItem from="1724365517132" duration="175000" />
       <workItem from="1724408240725" duration="1828000" />
+      <workItem from="1724436205926" duration="574000" />
+      <workItem from="1724436936505" duration="2368000" />
     </task>
     <task id="LOCAL-00001" summary="prep">
       <option name="closed" value="true" />
@@ -93,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724420030292</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="prep">
+      <option name="closed" value="true" />
+      <created>1724436778360</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724436778360</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
