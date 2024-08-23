@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="514b7f12-4dfd-44c3-9311-6047628fe46f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaPractice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array2d.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringtoArray.java" afterDir="false" />
+    <list default="true" id="514b7f12-4dfd-44c3-9311-6047628fe46f" name="Changes" comment="prep">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "shotime369"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/shotime369/JavaPractice",
+    "accountId": "33429d12-60da-4df1-9dd2-e35505c58048"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -71,12 +77,25 @@
       <option name="presentableId" value="Default" />
       <updated>1724365516074</updated>
       <workItem from="1724365517132" duration="175000" />
-      <workItem from="1724408240725" duration="340000" />
+      <workItem from="1724408240725" duration="1702000" />
     </task>
+    <task id="LOCAL-00001" summary="prep">
+      <option name="closed" value="true" />
+      <created>1724409149572</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724409149572</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="prep" />
+    <option name="LAST_COMMIT_MESSAGE" value="prep" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
