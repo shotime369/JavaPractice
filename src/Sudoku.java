@@ -23,11 +23,6 @@ public class Sudoku {
         for (int i = 0; i < 3; i++) {
             for (int element : shuffleArray()) {
                 System.out.print(element);
-                if ((i + 1) % 3 == 0) {
-                    System.out.print(" | ");
-                } else {
-                    System.out.print(" ");
-                }
             }
             System.out.print("\n");
         }
